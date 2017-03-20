@@ -1,7 +1,16 @@
 body{
 
-	background: blue;
+	background: #33691E;
 	color: white;
+	width: 80%;
+
+}
+
+p{
+
+	font-size: 12;
+	color: #000;
+
 
 }
 
